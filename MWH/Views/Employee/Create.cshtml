@@ -1,0 +1,163 @@
+﻿@model MWH.Service.MD.EmployeeService
+@using MWH.App_Code
+@{
+    var error = ViewBag.Error;
+}
+@using (Html.BeginForm("Create", "Employee", new { @id = "From-Create" }))
+{
+    <!-- SELECT2 EXAMPLE -->
+    <div class="card card-default">
+        <div class="card-header">
+            <h3 class="card-title">Thêm mới nhân viên</h3>
+
+            <div class="card-tools">
+                <a href="@Url.Action("Index", "Employee")" class="btn btn-tool"><i class="fas fa-times"></i></a>
+            </div>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="">Mã nhân viên</label>
+                        @Html.MyTextBoxFor(m => m.ObjDetail.CODE, new { placeholder = "Nhập mã nhân viên", @data_val = false, @required = true })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Tên nhân viên</label>
+                        @Html.MyTextBoxFor(m => m.ObjDetail.NAME_EMPLOYEE, new { placeholder = "Nhập tên nhân viên", @data_val = false, @required = true })
+                    </div>
+
+                </div>
+
+                <div class="col-md-6">
+                    <!-- /.form-group -->
+                    <div class="form-group">
+                        <label for="">Email</label>
+                        @Html.MyTextBoxFor(m => m.ObjDetail.EMAIL, new { placeholder = "Nhập email nhân viên", @data_val = false, @required = true })
+                    </div>
+
+                    <div class="form-group">
+                        <label for="">Số điện thoại</label>
+                        @Html.MyTextBoxFor(m => m.ObjDetail.PHONE_EMPLOYEE, new { placeholder = "Nhập số điện thoại nhân viên", @data_val = false, @required = true })
+                    </div>
+
+                   
+                    <!-- /.form-group -->
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label>Chọn kho hàng</label>
+                        @Html.MyDropDownListFor(m => m.ObjDetail.ID_WAREHOUSE, SelectListUtilities.GetAllWareHouse(), new { @data_live_search = "true", @class = "form-control select2bs4" })
+                    </div>
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <button Employee="submit" class="btn btn-primary">Thêm mới</button>
+        </div>
+    </div>
+    <!-- /.card -->
+    <!-- /.card -->
+}
+<script>
+    function showLoading() {
+        document.getElementById('loading-overlay').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.getElementById('loading-overlay').style.display = 'none';
+    }
+    showLoading()
+    setTimeout(hideLoading, 1000);
+</script>
+<script>
+    if ('@error' == "") {
+
+    } else if ('@error' == "False") {
+        swal("Thêm mới thành công!", {
+            icon: "success",
+        }).then(() => {
+            window.location.href = "/Employee/Index";
+        });
+    } else {
+        swal("Có lỗi xảy ra khi thêm mới!", {
+            icon: "error",
+        });
+    }
+</script>
+
+
+<script>
+
+    $(function () {
+        //Initialize Select2 Elements
+        $('.select2').select2()
+
+        //Initialize Select2 Elements
+        $('.select2bs4').select2({
+            theme: 'bootstrap4'
+        })
+
+        //Datemask dd/mm/yyyy
+        $('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
+        //Datemask2 mm/dd/yyyy
+        $('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
+        //Money Euro
+        $('[data-mask]').inputmask()
+
+        //Date range picker
+        $('#reservation').daterangepicker()
+        //Date range picker with time picker
+        $('#reservationtime').daterangepicker({
+            timePicker: true,
+            timePickerIncrement: 30,
+            locale: {
+                format: 'MM/DD/YYYY hh:mm A'
+            }
+        })
+        //Date range as a button
+        $('#daterange-btn').daterangepicker(
+            {
+                ranges: {
+                    'Today': [moment(), moment()],
+                    'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+                    'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                    'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                    'This Month': [moment().startOf('month'), moment().endOf('month')],
+                    'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                },
+                startDate: moment().subtract(29, 'days'),
+                endDate: moment()
+            },
+            function (start, end) {
+                $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+            }
+        )
+
+        //Timepicker
+        $('#timepicker').datetimepicker({
+            format: 'LT'
+        })
+
+        //Bootstrap Duallistbox
+        $('.duallistbox').bootstrapDualListbox()
+
+        //Colorpicker
+        $('.my-colorpicker1').colorpicker()
+        //color picker with addon
+        $('.my-colorpicker2').colorpicker()
+
+        $('.my-colorpicker2').on('colorpickerChange', function (event) {
+            $('.my-colorpicker2 .fa-square').css('color', event.color.toString());
+        });
+
+        $("input[data-bootstrap-switch]").each(function () {
+            $(this).bootstrapSwitch('state', $(this).prop('checked'));
+        });
+
+    })
+</script>
+<!-- /.card -->

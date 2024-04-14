@@ -1,0 +1,2154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MWH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\service\\bp\\deliverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\bp\\deliverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\service\\bp\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\bp\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\controllers\\bp\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\bp\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\views\\delivery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\delivery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\app_code\\selectlistutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\app_code\\selectlistutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\views\\delivery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\delivery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\core\\entities\\bp\\t_bp_delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\bp\\t_bp_delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\core\\entities\\t_md_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\receipt\\importexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\receipt\\importexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\controllers\\bp\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\bp\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\core\\entities\\bp\\t_bp_delivery_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\bp\\t_bp_delivery_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\views\\receipt\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\receipt\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\supplierrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\supplierrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\models\\viewdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\models\\viewdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\service\\bp\\deliverydetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\bp\\deliverydetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\bp\\receiptdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\bp\\receiptdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\mapping\\bp\\t_bp_delivery_detail_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\bp\\t_bp_delivery_detail_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\bp\\t_bp_receipt_detail_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\bp\\t_bp_receipt_detail_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\mapping\\bp\\t_bp_delivery_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\bp\\t_bp_delivery_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\mapping\\bp\\t_bp_receipt_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\bp\\t_bp_receipt_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\implement\\bp\\deliverydetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\bp\\deliverydetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\bp\\receiptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\bp\\receiptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\implement\\bp\\deliveryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\bp\\deliveryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\bp\\receiptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\bp\\receiptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\interface\\bp\\ideliverydetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\bp\\ideliverydetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\bp\\ireceiptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\bp\\ireceiptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\repository\\interface\\bp\\ideliveryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\bp\\ideliveryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\bp\\ireceiptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\bp\\ireceiptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\core\\entities\\bp\\t_bp_receipt_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\bp\\t_bp_receipt_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\core\\entities\\bp\\t_bp_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\bp\\t_bp_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\views\\receipt\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\receipt\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|e:\\mwh\\mwh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\common\\nhsessionfactorysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\common\\nhsessionfactorysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_product_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_product_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\type\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\type\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\category\\indexwarehouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\category\\indexwarehouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\typeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_type_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_type_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\typerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\typerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\itype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\itype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_ad_org_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_ad_org_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\unitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\md\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\md\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_customer_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_customer_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_warehouse_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_warehouse_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_unit_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_unit_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_supplier_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_supplier_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_md_employee_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_md_employee_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_md_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\unit\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\unit\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\unit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\unit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\supplier\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\supplier\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_md_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_ad_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_ad_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_ad_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_ad_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\mapping\\t_ad_user_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\mapping\\t_ad_user_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_md_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_md_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\entities\\t_md_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\entities\\t_md_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\isupplierrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\isupplierrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\orgrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\orgrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iorgrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iorgrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\unitrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\unitrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iunitrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iunitrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\theme\\plugins\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\theme\\plugins\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\scripts\\ajaxload\\core.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\scripts\\ajaxload\\core.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\scripts\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\scripts\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\scripts\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\scripts\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\shared\\_partialupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\shared\\_partialupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\helper\\htmlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\helper\\htmlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\interface\\iwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\interface\\iwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\implement\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\implement\\warehouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\ad\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\ad\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\common\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\common\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\service\\common\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\service\\common\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\repository\\common\\nhunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\repository\\common\\nhunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|E:\\MWH\\mwh\\core\\common\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D1ECD9-8879-4971-98F5-249F439B8D9C}|MWH\\MWH.csproj|solutionrelative:mwh\\core\\common\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliverService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\BP\\DeliverService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\BP\\DeliverService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\BP\\DeliverService.cs",
+              "RelativeToolTip": "MWH\\Service\\BP\\DeliverService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:31:22.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\BP\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\BP\\DeliveryController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\BP\\DeliveryController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\BP\\DeliveryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:20:40.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\BP\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\BP\\ReceiptService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\BP\\ReceiptService.cs",
+              "RelativeToolTip": "MWH\\Service\\BP\\ReceiptService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwGoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:34:43.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:937283138:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Delivery\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Delivery\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Delivery\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Delivery\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T19:02:33.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "T_BP_DELIVERY.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_DELIVERY.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\BP\\T_BP_DELIVERY.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_DELIVERY.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\BP\\T_BP_DELIVERY.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:22:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Delivery\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Delivery\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Delivery\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Delivery\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T18:50:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectListUtilities.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\App_Code\\SelectListUtilities.cs",
+              "RelativeDocumentMoniker": "MWH\\App_Code\\SelectListUtilities.cs",
+              "ToolTip": "E:\\MWH\\MWH\\App_Code\\SelectListUtilities.cs",
+              "RelativeToolTip": "MWH\\App_Code\\SelectListUtilities.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAmwG4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:32:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "T_MD_PRODUCT.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_PRODUCT.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_PRODUCT.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_PRODUCT.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_PRODUCT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:04:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:12:38.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportExcel.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Receipt\\ImportExcel.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Receipt\\ImportExcel.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Receipt\\ImportExcel.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Receipt\\ImportExcel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:27:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:37:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReceiptController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\BP\\ReceiptController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\BP\\ReceiptController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\BP\\ReceiptController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\BP\\ReceiptController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:53:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Receipt\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Receipt\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Receipt\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Receipt\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:03:25.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "T_BP_DELIVERY_DETAIL.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_DELIVERY_DETAIL.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\BP\\T_BP_DELIVERY_DETAIL.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_DELIVERY_DETAIL.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\BP\\T_BP_DELIVERY_DETAIL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:22:35.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Receipt\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Receipt\\Detail.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Receipt\\Detail.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Receipt\\Detail.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:52:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SupplierRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\SupplierRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\SupplierRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\SupplierRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\SupplierRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:14:34.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewDataModel.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Models\\ViewDataModel.cs",
+              "RelativeDocumentMoniker": "MWH\\Models\\ViewDataModel.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Models\\ViewDataModel.cs",
+              "RelativeToolTip": "MWH\\Models\\ViewDataModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:30:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeliveryDetailService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\BP\\DeliveryDetailService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\BP\\DeliveryDetailService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\BP\\DeliveryDetailService.cs",
+              "RelativeToolTip": "MWH\\Service\\BP\\DeliveryDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:31:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReceiptDetailService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\BP\\ReceiptDetailService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\BP\\ReceiptDetailService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\BP\\ReceiptDetailService.cs",
+              "RelativeToolTip": "MWH\\Service\\BP\\ReceiptDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:35:00.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "T_BP_DELIVERY_DETAIL_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_DETAIL_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_DETAIL_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_DETAIL_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_DETAIL_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:28:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "T_BP_RECEIPT_DETAIL_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_DETAIL_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_DETAIL_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_DETAIL_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_DETAIL_Map.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:31:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "T_BP_DELIVERY_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\BP\\T_BP_DELIVERY_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:28:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "T_BP_RECEIPT_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\BP\\T_BP_RECEIPT_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:40:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeliveryDetailRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\DeliveryDetailRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\BP\\DeliveryDetailRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\DeliveryDetailRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\BP\\DeliveryDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:25:59.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeliveryRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\DeliveryRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\BP\\DeliveryRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\DeliveryRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\BP\\DeliveryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:25:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDeliveryDetailRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IDeliveryDetailRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\BP\\IDeliveryDetailRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IDeliveryDetailRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\BP\\IDeliveryDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:24:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReceiptRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\ReceiptRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\BP\\ReceiptRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\ReceiptRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\BP\\ReceiptRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:17:06.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReceiptDetailRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\ReceiptDetailRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\BP\\ReceiptDetailRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\BP\\ReceiptDetailRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\BP\\ReceiptDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:29:03.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "T_BP_RECEIPT_DETAIL.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_RECEIPT_DETAIL.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\BP\\T_BP_RECEIPT_DETAIL.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_RECEIPT_DETAIL.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\BP\\T_BP_RECEIPT_DETAIL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:22:37.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDeliveryRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IDeliveryRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\BP\\IDeliveryRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IDeliveryRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\BP\\IDeliveryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:22:07.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IReceiptDetailRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IReceiptDetailRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\BP\\IReceiptDetailRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IReceiptDetailRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\BP\\IReceiptDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:28:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IReceiptRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IReceiptRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\BP\\IReceiptRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\BP\\IReceiptRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\BP\\IReceiptRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:16:10.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Receipt\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Receipt\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Receipt\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Receipt\\Update.cshtml",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAgwKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:41:20.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "T_BP_RECEIPT.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_RECEIPT.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\BP\\T_BP_RECEIPT.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\BP\\T_BP_RECEIPT.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\BP\\T_BP_RECEIPT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:09:45.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAM4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T17:49:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "T_MD_PRODUCT_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_PRODUCT_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_PRODUCT_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_PRODUCT_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_PRODUCT_Map.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:06:45.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NHSessionFactorySingleton.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Common\\NHSessionFactorySingleton.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Common\\NHSessionFactorySingleton.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Common\\NHSessionFactorySingleton.cs",
+              "RelativeToolTip": "MWH\\Repository\\Common\\NHSessionFactorySingleton.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:40:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Product\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:12:59.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T07:03:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T07:22:47.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\ProductService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\ProductService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\ProductService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:10:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:09:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAYwJ8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T07:34:04.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Type\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Type\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Type\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Type\\Update.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAgwJIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T06:01:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Type\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Type\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Type\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Type\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T06:00:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TypeController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\TypeController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\TypeController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\TypeController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\TypeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:59:04.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:46:31.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:37:18.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IndexWareHouse.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Category\\IndexWareHouse.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Category\\IndexWareHouse.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Category\\IndexWareHouse.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Category\\IndexWareHouse.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:17:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAnwCQAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T20:36:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:09:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwCoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:36:57.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TypeService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\TypeService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\TypeService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\TypeService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\TypeService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:58:09.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TypeRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\TypeRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\TypeRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\TypeRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\TypeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:55:45.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "T_MD_TYPE_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_TYPE_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_TYPE_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_TYPE_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_TYPE_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:56:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\WarehouseService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\WarehouseService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\WarehouseService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:21:25.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UnitService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\UnitService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\UnitService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\UnitService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\UnitService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:49:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "T_AD_ORG_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_AD_ORG_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_AD_ORG_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_AD_ORG_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_AD_ORG_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:40:48.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IType.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IType.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IType.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IType.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:55:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T09:35:51.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\SupplierService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\SupplierService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\SupplierService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\SupplierService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:29:14.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\CustomerService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\CustomerService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\CustomerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:28:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\MD\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\MD\\EmployeeService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\MD\\EmployeeService.cs",
+              "RelativeToolTip": "MWH\\Service\\MD\\EmployeeService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:59:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:11:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "T_MD_CUSTOMER_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_CUSTOMER_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_CUSTOMER_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_CUSTOMER_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_CUSTOMER_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:21:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "T_MD_WAREHOUSE_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_WAREHOUSE_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_WAREHOUSE_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_WAREHOUSE_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_WAREHOUSE_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:20:26.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "T_MD_SUPPLIER_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_SUPPLIER_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_SUPPLIER_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_SUPPLIER_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_SUPPLIER_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:16:04.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "T_MD_UNIT_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_UNIT_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_UNIT_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_UNIT_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_UNIT_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:48:08.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "T_MD_EMPLOYEE_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_EMPLOYEE_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_MD_EMPLOYEE_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_MD_EMPLOYEE_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_MD_EMPLOYEE_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:07:21.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "T_MD_CUSTOMER.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_CUSTOMER.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_CUSTOMER.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_CUSTOMER.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_CUSTOMER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:12:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Unit\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Unit\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Unit\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Unit\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T22:02:17.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Unit\\Index.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Unit\\Index.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Unit\\Index.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Unit\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T21:29:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Unit\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Unit\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Unit\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Unit\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T22:01:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Type\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Type\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Type\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Type\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T06:01:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Supplier\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Supplier\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Supplier\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Supplier\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T09:36:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Supplier\\Create.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Supplier\\Create.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Supplier\\Create.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Supplier\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T09:35:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Category\\Update.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:09:56.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\UnitController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\UnitController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:29:09.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\SupplierController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:33:49.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "T_MD_EMPLOYEE.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_EMPLOYEE.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_EMPLOYEE.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_EMPLOYEE.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_EMPLOYEE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:47:58.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "T_AD_USER.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_AD_USER.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_AD_USER.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_AD_USER.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_AD_USER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:34:51.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "T_AD_ORG.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_AD_ORG.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_AD_ORG.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_AD_ORG.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_AD_ORG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:36:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Common\\BaseEntity.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "MWH\\Core\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:32:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "T_AD_USER_Map.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Mapping\\T_AD_USER_Map.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Mapping\\T_AD_USER_Map.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Mapping\\T_AD_USER_Map.cs",
+              "RelativeToolTip": "MWH\\Repository\\Mapping\\T_AD_USER_Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:46:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "T_MD_WAREHOUSE.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_WAREHOUSE.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_WAREHOUSE.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_WAREHOUSE.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_WAREHOUSE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:18:26.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "T_MD_UNIT.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_UNIT.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_UNIT.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_UNIT.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_UNIT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:24:40.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "T_MD_TYPE.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_TYPE.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Entities\\T_MD_TYPE.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Entities\\T_MD_TYPE.cs",
+              "RelativeToolTip": "MWH\\Core\\Entities\\T_MD_TYPE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:54:21.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\ManageController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:37:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\CustomerRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\CustomerRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\CustomerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:17:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ICustomerRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\ICustomerRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\ICustomerRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\ICustomerRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\ICustomerRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:15:29.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ISupplierRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\ISupplierRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\ISupplierRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\ISupplierRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\ISupplierRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:12:42.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "OrgRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\OrgRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\OrgRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\OrgRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\OrgRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:39:50.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IOrgRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IOrgRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IOrgRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IOrgRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IOrgRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:39:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\ProductRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\ProductRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:05:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IProductRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IProductRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:04:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\EmployeeRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\EmployeeRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:56:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IEmployeeRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IEmployeeRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IEmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:55:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "UnitRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\UnitRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\UnitRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\UnitRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\UnitRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:47:22.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "IUnitRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IUnitRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IUnitRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IUnitRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IUnitRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:46:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:04:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:07:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "core.js",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Scripts\\AjaxLoad\\core.js",
+              "RelativeDocumentMoniker": "MWH\\Scripts\\AjaxLoad\\core.js",
+              "ToolTip": "E:\\MWH\\MWH\\Scripts\\AjaxLoad\\core.js",
+              "RelativeToolTip": "MWH\\Scripts\\AjaxLoad\\core.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:37:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Scripts\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "MWH\\Scripts\\bootstrap.bundle.js",
+              "ToolTip": "E:\\MWH\\MWH\\Scripts\\bootstrap.bundle.js",
+              "RelativeToolTip": "MWH\\Scripts\\bootstrap.bundle.js",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAcwPUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:41:16.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "custom.css",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Theme\\plugins\\custom.css",
+              "RelativeDocumentMoniker": "MWH\\Theme\\plugins\\custom.css",
+              "ToolTip": "E:\\MWH\\MWH\\Theme\\plugins\\custom.css",
+              "RelativeToolTip": "MWH\\Theme\\plugins\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T19:12:04.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "MWH\\Scripts\\bootstrap.js",
+              "ToolTip": "E:\\MWH\\MWH\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "MWH\\Scripts\\bootstrap.js",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAcwAwBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:42:37.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Scripts\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "MWH\\Scripts\\bootstrap.bundle.min.js",
+              "ToolTip": "E:\\MWH\\MWH\\Scripts\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "MWH\\Scripts\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:41:29.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Scripts\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "MWH\\Scripts\\bootstrap.esm.js",
+              "ToolTip": "E:\\MWH\\MWH\\Scripts\\bootstrap.esm.js",
+              "RelativeToolTip": "MWH\\Scripts\\bootstrap.esm.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:41:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "select2-bootstrap4.min.css",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css",
+              "RelativeDocumentMoniker": "MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css",
+              "ToolTip": "E:\\MWH\\MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css",
+              "RelativeToolTip": "MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T18:26:44.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "select2-bootstrap4.css",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css",
+              "RelativeDocumentMoniker": "MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css",
+              "ToolTip": "E:\\MWH\\MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css",
+              "RelativeToolTip": "MWH\\Theme\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T18:26:07.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "bootstrap-colorpicker.css",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+              "RelativeDocumentMoniker": "MWH\\Theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+              "ToolTip": "E:\\MWH\\MWH\\Theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+              "RelativeToolTip": "MWH\\Theme\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T18:25:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "_PartialUpdate.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Shared\\_PartialUpdate.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Shared\\_PartialUpdate.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Shared\\_PartialUpdate.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Shared\\_PartialUpdate.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:50:38.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "HtmlExtensions.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Helper\\HtmlExtensions.cs",
+              "RelativeDocumentMoniker": "MWH\\Helper\\HtmlExtensions.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Helper\\HtmlExtensions.cs",
+              "RelativeToolTip": "MWH\\Helper\\HtmlExtensions.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAIwNEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:30:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Web.config",
+              "RelativeDocumentMoniker": "MWH\\Web.config",
+              "ToolTip": "E:\\MWH\\MWH\\Web.config",
+              "RelativeToolTip": "MWH\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAD+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-09T19:49:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\UserRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\UserRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\UserRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:45:48.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IUserRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IUserRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IUserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:45:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "IWarehouse.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Interface\\IWarehouse.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Interface\\IWarehouse.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Interface\\IWarehouse.cs",
+              "RelativeToolTip": "MWH\\Repository\\Interface\\IWarehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:19:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MWH\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MWH\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAJ0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:50.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "MWH\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "E:\\MWH\\MWH\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "MWH\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:58:19.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "WarehouseRepo.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Implement\\WarehouseRepo.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Implement\\WarehouseRepo.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Implement\\WarehouseRepo.cs",
+              "RelativeToolTip": "MWH\\Repository\\Implement\\WarehouseRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:19:27.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:48:24.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MWH\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\MWH\\MWH\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MWH\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:11:41.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MWH\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\MWH\\MWH\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MWH\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T20:11:06.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\AD\\UserService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\AD\\UserService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\AD\\UserService.cs",
+              "RelativeToolTip": "MWH\\Service\\AD\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:54:19.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\Common\\IGenericService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\Common\\IGenericService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\Common\\IGenericService.cs",
+              "RelativeToolTip": "MWH\\Service\\Common\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:52:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Service\\Common\\BaseService.cs",
+              "RelativeDocumentMoniker": "MWH\\Service\\Common\\BaseService.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Service\\Common\\BaseService.cs",
+              "RelativeToolTip": "MWH\\Service\\Common\\BaseService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:52:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Common\\IUnitOfWork.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "MWH\\Repository\\Common\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:40:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "NHUnitOfWork.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Repository\\Common\\NHUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MWH\\Repository\\Common\\NHUnitOfWork.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Repository\\Common\\NHUnitOfWork.cs",
+              "RelativeToolTip": "MWH\\Repository\\Common\\NHUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:41:04.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "E:\\MWH\\MWH\\Core\\Common\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "MWH\\Core\\Common\\IBaseEntity.cs",
+              "ToolTip": "E:\\MWH\\MWH\\Core\\Common\\IBaseEntity.cs",
+              "RelativeToolTip": "MWH\\Core\\Common\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:31:54.535Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

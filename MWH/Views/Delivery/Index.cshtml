@@ -1,0 +1,83 @@
+﻿@model  IList<MWH.Models.ViewDataModelDelivery>
+@{
+    var error = ViewBag.Error;
+}
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Danh sách phiếu xuất</h3>
+
+    </div>
+
+    <div class="card-header">
+        <a href="@Url.Action("Create", "Delivery")" class="btn btn-primary">Lập phiếu xuất</a>
+    </div>
+    <div class="card-body table-responsive p-0">
+        <table class="table table-striped table-valign-middle">
+            <thead>
+                <tr>
+                    <th>Ngày xuất</th>
+                    <th>Nhân viên</th>
+                    <th>Khách hàng</th>
+                    <th>Số lượng xuất</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.Date
+                        </td>
+                        <td>@item.Name_Employee</td>
+                        <td>
+                            @item.Name_Customer
+                        </td> 
+                        <td>@item.Number_delivery</td>
+                        <td>
+                            <a href="@Url.Action("Update", "Delivery", new {id = item.Id_Delivery})"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a href="@Url.Action("Detail", "Delivery", new {id = item.Id_Delivery})"><i class="fa-solid fa-eye"></i></a>
+
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    function showLoading() {
+        document.getElementById('loading-overlay').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.getElementById('loading-overlay').style.display = 'none';
+    }
+    showLoading()
+    setTimeout(hideLoading, 1000);
+</script>
+<script>
+    if ('@error' == "") {
+
+    } else if ('@error' == "False") {
+        swal("Thêm mới thành công!", {
+            icon: "success",
+        }).then(() => {
+            window.location.href = "/Delivery/Index";
+        });
+    } else {
+        swal("Có lỗi xảy ra khi thêm mới!", {
+            icon: "error",
+        });
+    }
+</script>
+
+<script>
+    $(document).ready(function () {
+        $('.nav-link').removeClass("active");
+        $('#' + "XK").addClass('active');
+
+    });
+</script>

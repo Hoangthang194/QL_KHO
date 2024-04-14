@@ -1,0 +1,139 @@
+﻿@model MWH.Service.MD.WarehouseService
+@using MWH.App_Code;
+@{
+    var formID = Guid.NewGuid().ToString();
+    var formID2 = Guid.NewGuid().ToString();
+    var data = ViewBag.Data as List<MWH.Core.Entities.T_MD_WAREHOUSE>;
+}
+<style>
+    .btn1:hover {
+        background-color: #007bff;
+    }
+
+    input, select {
+        max-width: none;
+    }
+</style>
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Danh sách kho hàng</h3>
+    </div>
+    <div class="card-header">
+        <a href="@Url.Action("Create", "Category")" class="btn btn-primary">Thêm mới</a>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="#example2" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Mã kho hàng</th>
+                    <th>Tên kho hàng</th>
+                    <th>Chi nhánh</th>
+                    <th>Sức chứa</th>
+                    <th style="text-align:center;">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (data != null)
+                {
+                    foreach (var item in data)
+                    {
+                        <tr>
+                            <td>@item.CODE</td>
+                            <td class="vertical-center">
+                                @item.NAME_WAREHOUSE
+                            </td>
+                            <td>@item.AREA_CODE</td>
+                            <td>@item.CAPACITY</td>
+                            <td style="width:200px; text-align:center;">
+                                <a href="@Url.Action("Update", "Category", new {id = item.ID_WAREHOUSE})"><i class="fa-solid fa-pen-to-square"></i></a>
+                                <a href="#" onclick="Delete('@item.ID_WAREHOUSE')"><i class="fa-solid fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+<script>
+    function showLoading() {
+        document.getElementById('loading-overlay').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.getElementById('loading-overlay').style.display = 'none';
+    }
+    showLoading()
+    setTimeout(hideLoading, 1000);
+</script>
+<script>
+    $(function () {
+
+        $('#example2').DataTable({
+            "paging": true,
+            "lengthChange": false,
+            "searching": false,
+            "ordering": true,
+            "info": true,
+            "autoWidth": false,
+            "responsive": true,
+        });
+    });
+    function submit() {
+        $("#btn_submit").click();
+    }
+
+    function Delete(warehouseId) {
+        swal({
+            title: "Bạn chắc chắn xóa kho hàng này?",
+            text: "Sau khi xóa danh sách kho hàng sẽ được cập nhật lại!",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true,
+        }).then((willDelete) => {
+            if (willDelete) {
+                $.ajax({
+                    url: "/Category/Delete",
+                    type: "POST",
+                    data: { warehouseId: warehouseId },
+                    success: function (response) {
+                        if (response && response.success) {
+                            swal(response.message, {
+                                icon: "success",
+                            }).then(() => {
+                                window.location.href = "/Category/IndexWareHouse";
+                            });
+                        } else {
+                            swal(response.message, {
+                                icon: "error",
+                            });
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        swal("Có lỗi xảy ra khi gửi yêu cầu xóa!", {
+                            icon: "error",
+                        });
+                    }
+                });
+            } else {
+                // Nếu người dùng không đồng ý xóa, hiển thị thông báo swal
+                return;
+            }
+        });
+    }
+</script>
+<script>
+    $(document).ready(function () {
+        $('#DM').removeClass("menu-close");
+        $('#DM').addClass("menu-open");
+        $('.nav-link').removeClass("active");
+        $('#' + "DMLink").addClass('active');
+
+        $('#' + "Kho_Hang").addClass('active');
+    });
+</script>

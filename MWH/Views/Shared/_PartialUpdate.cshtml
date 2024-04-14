@@ -1,0 +1,46 @@
+﻿@*modal cập nhật*@
+@using MWH.App_Code;
+@model MWH.Service.MD.WarehouseService
+@using (Html.BeginForm("Update", "Category",
+            new { ReturnUrl = ViewBag.ReturnUrl },
+            FormMethod.Post, new { @id = "form_update" }))
+{
+    <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Cập nhật kho hàng</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Mã kho hàng</label>
+                            @Html.MyTextBoxFor(m => m.ObjDetail.ID_WAREHOUSE, new { @id = "Ma_Kho", @placeholder = "Nhập mã kho", @disable = true })
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Tên kho hàng</label>
+                            @Html.MyTextBoxFor(m => m.ObjDetail.NAME_WAREHOUSE, new { @id = "Name_Kho", @placeholder = "Nhập tên kho", @required = true })
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Chi nhánh</label>
+                            @Html.MyDropDownListFor(m => m.ObjDetail.AREA_CODE, SelectListUtilities.GetAllArea(), new { @class = "selectpicker show-tick" })
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Sức chứa</label>
+                            @Html.MyTextBoxFor(m => m.ObjDetail.CAPACITY, new { @id = "Capacity_Kho", @placeholder = "Nhập sức chứa", @required = true })
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                    @*<button type="submit" id="btn_submit" hidden></button>*@
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="submit" class="btn btn-primary">Cập nhật</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}

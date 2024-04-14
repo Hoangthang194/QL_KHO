@@ -1,0 +1,201 @@
+﻿@model MWH.Models.ViewDataDetail
+@using MWH.App_Code
+@{
+    var error = ViewBag.Error;
+}
+@using (Html.BeginForm("Detail", "Receipt",
+            new { ReturnUrl = ViewBag.ReturnUrl },
+            FormMethod.Post, new { @id = "form_Update" }))
+{
+    @Html.AntiForgeryToken()
+    <!-- SELECT2 EXAMPLE -->
+    <div class="card card-default">
+        <div class="card-header">
+            <h3 class="card-title" style="font-size:25px;font-weight:700;">Phiếu nhập khẩu</h3>
+
+            <div class="card-tools">
+                <a href="@Url.Action("Index", "Receipt")" class="btn btn-tool"><i class="fas fa-times"></i></a>
+                <a href="#" class="btn btn-tool btn-sm" onclick="Dowload()">
+                    <i class="fas fa-download"></i>
+                </a>
+            </div>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6" style="font-weight:500;">
+                    Nhân viên: @Model.receipt.Name_Employy
+                </div>
+                <div class="col-md-6" style="font-weight: 500;">
+                    Nhà cung cấp: @Model.receipt.Name_Supplier
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6" style="font-weight: 500;">
+                    Ngày nhập: @Model.receipt.DATE_RECEIPT
+                </div>
+                <div class="col-md-6" style="font-weight: 500;">
+                    Loại sản phẩm: @Model.receipt.Name_type
+                </div>
+            </div>
+
+            <div class="row" style="padding-top:20px;">
+                <table id="#example2" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Mã sản phẩm</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Số lượng tồn</th>
+                            <th>Số lượng tồn thực tế</th>
+                            <th>Đơn vị</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.products != null)
+                        {
+                            foreach (var item in Model.products)
+                            {
+                                <tr>
+                                    <td>@item.CODE</td>
+                                    <td class="vertical-center">
+                                        @item.NAME_PRODUCT
+                                    </td>
+                                    <td>@item.NUMBER_PRODUCT</td>
+                                    <td>@item.NUMBER_PRODUCT_TODAY</td>
+                                    <td>@item.UNIT</td>
+                                </tr>
+                            }
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+            
+            <!-- /.row -->
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <div>Tổng tiền: @Model.receipt.AMOUNT</div>
+        </div>
+    </div>
+    <!-- /.card -->
+    <!-- /.card -->
+}
+<script>
+    function showLoading() {
+        document.getElementById('loading-overlay').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.getElementById('loading-overlay').style.display = 'none';
+    }
+    showLoading()
+    setTimeout(hideLoading, 1000);
+</script>
+<script>
+    if ('@error' == "") {
+
+    } else if ('@error' == "False") {
+        swal("Cập nhật thành công!", {
+            icon: "success",
+        }).then(() => {
+            window.location.href = "/Receipt/Index";
+        });
+    } else {
+        swal("Có lỗi xảy ra khi thêm mới!", {
+            icon: "error",
+        });
+    }
+
+    function Dowload() {
+        $(".card-tools").hide()
+        window.addEventListener("afterprint", function (event) {
+            // Hiển thị lại phần tử có class là "card-tools"
+            $(".card-tools").show();
+        });
+
+        // Thực hiện lệnh in
+        window.print();
+    }
+</script>
+
+<script>
+    $(document).ready(function () {
+        $('.nav-link').removeClass("active");
+        $('#' + "NK").addClass('active');
+
+    });
+</script>
+<script>
+
+    $(function () {
+        //Initialize Select2 Elements
+        $('.select2').select2()
+
+        //Initialize Select2 Elements
+        $('.select2bs4').select2({
+            theme: 'bootstrap4'
+        })
+
+        //Datemask dd/mm/yyyy
+        $('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
+        //Datemask2 mm/dd/yyyy
+        $('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
+        //Money Euro
+        $('[data-mask]').inputmask()
+
+        //Date range picker
+        $('#reservation').daterangepicker()
+        //Date range picker with time picker
+        $('#reservationtime').daterangepicker({
+            timePicker: true,
+            timePickerIncrement: 30,
+            locale: {
+                format: 'MM/DD/YYYY hh:mm A'
+            }
+        })
+        //Date range as a button
+        $('#daterange-btn').daterangepicker(
+            {
+                ranges: {
+                    'Today': [moment(), moment()],
+                    'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+                    'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                    'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                    'This Month': [moment().startOf('month'), moment().endOf('month')],
+                    'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                },
+                startDate: moment().subtract(29, 'days'),
+                endDate: moment()
+            },
+            function (start, end) {
+                $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+            }
+        )
+
+        //Timepicker
+        $('#timepicker').datetimepicker({
+            format: 'LT'
+        })
+
+        //Bootstrap Duallistbox
+        $('.duallistbox').bootstrapDualListbox()
+
+        //Colorpicker
+        $('.my-colorpicker1').colorpicker()
+        //color picker with addon
+        $('.my-colorpicker2').colorpicker()
+
+        $('.my-colorpicker2').on('colorpickerChange', function (event) {
+            $('.my-colorpicker2 .fa-square').css('color', event.color.toString());
+        });
+
+        $("input[data-bootstrap-switch]").each(function () {
+            $(this).bootstrapSwitch('state', $(this).prop('checked'));
+        });
+
+    })
+</script>
+<!-- /.card -->

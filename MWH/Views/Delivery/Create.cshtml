@@ -1,0 +1,211 @@
+﻿@model MWH.Service.BP.DeliveryService
+@using MWH.App_Code
+@{
+    var error = ViewBag.Error;
+    var lstproduct = ViewBag.LstProduct as List<MWH.Core.Entities.T_MD_PRODUCT>;
+}
+@using (Html.BeginForm("Create", "Delivery", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(x => x.ObjDetail.DATE_DELIVERY)
+    @Html.HiddenFor(x => x.ObjDetail.YEAR)
+    <!-- SELECT2 EXAMPLE -->
+    <div class="card card-default">
+        <div class="card-header">
+            <h3 class="card-title">Lập phiếu xuất</h3>
+
+            <div class="card-tools">
+                <a href="@Url.Action("Index", "Delivery")" class="btn btn-tool"><i class="fas fa-times"></i></a>
+            </div>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="">Mã khách hàng</label>
+                        @Html.MyDropDownListFor(m => m.ObjDetail.ID_CUSTOMER, SelectListUtilities.GetAllCustomer(), new { @data_live_search = "true", @class = "form-control select2bs4", @required = true })
+                    </div>
+                    <div class="form-group">
+                        <label>Ngày xuất</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                            </div>
+                            @Html.TextBoxFor(m => m.ObjDetail.DATE_DELIVERY, "{0:dd/MM/yyyy}", new { @class = "form-control", @data_inputmask_alias = "datetime", @data_inputmask_inputformat = "dd/mm/yyyy", @data_mask = "" })
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+
+                </div>
+
+                <div class="col-md-6">
+                    <!-- /.form-group -->
+                    <div class="form-group">
+                        <label for="">Mã nhân viên</label>
+                        @Html.MyDropDownListFor(m => m.ObjDetail.ID_EMPLOYEE, SelectListUtilities.GetAllEmployee(), new { @data_live_search = "true", @class = "form-control select2bs4", @required = true })
+                    </div>
+
+                    <div class="form-group">
+                        <label for="">Chọn đơn vị vận chuyển</label>
+                        @Html.MyDropDownListFor(m => m.ObjDetail.ID_SHIPPINE_UNIT, SelectListUtilities.GetAllUnit(), new { @data_live_search = "true", @class = "form-control select2bs4", @required = true })
+                    </div>
+                    <!-- /.form-group -->
+                </div>
+            </div>
+
+            <div class="row">
+                <table id="#example2" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Mã sản phẩm</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Số lượng tồn</th>
+                            <th>Đơn vị</th>
+                            <th style="text-align:center;">Chọn sản phẩm</th>
+                            <th style="text-align:center;">Nhập số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (lstproduct != null)
+                        {
+                            for(int i = 0; i < Model.lstProduct.Count(); i++)
+                            {
+                                @Html.HiddenFor(m => m.lstProduct[i].ID_PRODUCT)
+                                var item = Model.lstProduct[i];
+                                <tr>
+                                    <td>@item.CODE</td>
+                                    <td class="vertical-center">
+                                        @item.NAME_PRODUCT
+                                    </td>
+                                    <td>@item.NUMBER_PRODUCT</td>
+                                    <td>@item.UNIT</td>
+                                    <td style="text-align: center;">@Html.CheckBoxFor(m => m.lstProduct[i].IsCheck, new { id = "Number_Delivery", @class = "checkbox-class text-align-center" })</td>
+                                    <td style="width:200px; text-align:center;">
+                                        @Html.MyTextBoxFor(m => m.lstProduct[i].Number_delivery, new { placeholder = "Số lượng", @data_val = false, @required = true })
+                                    </td>
+                                </tr>
+                            }
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <button Customer="submit" class="btn btn-primary">Xuất</button>
+        </div>
+    </div>
+    <!-- /.card -->
+    <!-- /.card -->
+}
+<script>
+    function showLoading() {
+        document.getElementById('loading-overlay').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.getElementById('loading-overlay').style.display = 'none';
+    }
+    showLoading()
+    setTimeout(hideLoading, 1000);
+</script>
+<script>
+    if ('@error' == "") {
+
+    } else if ('@error' == "False") {
+        swal("Thêm mới thành công!", {
+            icon: "success",
+        }).then(() => {
+            window.location.href = "/Customer/Index";
+        });
+    } else {
+        swal("Có lỗi xảy ra khi thêm mới!", {
+            icon: "error",
+        });
+    }
+</script>
+
+
+<script>
+
+    $(function () {
+        //Initialize Select2 Elements
+        $('.select2').select2()
+
+        //Initialize Select2 Elements
+        $('.select2bs4').select2({
+            theme: 'bootstrap4'
+        })
+
+        //Datemask dd/mm/yyyy
+        $('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
+        //Datemask2 mm/dd/yyyy
+        $('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
+        //Money Euro
+        $('[data-mask]').inputmask()
+
+        //Date range picker
+        $('#reservation').daterangepicker()
+        //Date range picker with time picker
+        $('#reservationtime').daterangepicker({
+            timePicker: true,
+            timePickerIncrement: 30,
+            locale: {
+                format: 'MM/DD/YYYY hh:mm A'
+            }
+        })
+        //Date range as a button
+        $('#daterange-btn').daterangepicker(
+            {
+                ranges: {
+                    'Today': [moment(), moment()],
+                    'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+                    'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                    'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                    'This Month': [moment().startOf('month'), moment().endOf('month')],
+                    'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                },
+                startDate: moment().subtract(29, 'days'),
+                endDate: moment()
+            },
+            function (start, end) {
+                $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+            }
+        )
+
+        //Timepicker
+        $('#timepicker').datetimepicker({
+            format: 'LT'
+        })
+
+        //Bootstrap Duallistbox
+        $('.duallistbox').bootstrapDualListbox()
+
+        //Colorpicker
+        $('.my-colorpicker1').colorpicker()
+        //color picker with addon
+        $('.my-colorpicker2').colorpicker()
+
+        $('.my-colorpicker2').on('colorpickerChange', function (event) {
+            $('.my-colorpicker2 .fa-square').css('color', event.color.toString());
+        });
+
+        $("input[data-bootstrap-switch]").each(function () {
+            $(this).bootstrapSwitch('state', $(this).prop('checked'));
+        });
+
+    })
+</script>
+
+<script>
+    $(document).ready(function () {
+        $('.nav-link').removeClass("active");
+        $('#' + "XK").addClass('active');
+
+    });
+</script>
+<!-- /.card -->
